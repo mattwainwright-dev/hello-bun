@@ -14,3 +14,8 @@ This project is used to practice:
 ## Author
 
 Matthew Wainwright
+
+My code has two settings:
+"It works."
+and
+"I have no idea what I changed."
